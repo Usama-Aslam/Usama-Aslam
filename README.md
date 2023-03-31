@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Good Code Is It's Own Best Documentation.</h1>
 
-<p>Welcome to my GitHub profile! </br> I'm Usama, Fullstack MERN developer from <img src="https://image.flaticon.com/icons/svg/197/197606.svg" width="13"/> <b>Karachi, Pakistan</b>.</p>
+<p>Welcome to my GitHub profile! </br> I'm Usama, Fullstack MERN developer from 🏠 <b>Karachi, Pakistan</b>.</p>
 <p>A passionate Application Developer :cloud: with heart of Cloud Computing, having an experience of Developing Web and Mobile applications with JavaScript / ReactJS / NextJS / NodeJS / MongoDB / ExpressJS / React Native / Docker / Kubernetes and some other cool libraries and frameworks. 😊</p>
 
 <p>
